@@ -1,6 +1,6 @@
 # Learning Map
 
-Here is a note for myself to record what topic I've studied in terms of python coding skill , Advanced analytics skills as well as Machine Learning
+Here is a note for myself to record the topics I'm going to study in terms of python coding skill , Advanced analytics skills as well as Machine Learning
 
 
 ## Basic Knowledge (before study group)
@@ -20,15 +20,15 @@ Here is a note for myself to record what topic I've studied in terms of python c
 - Network Analysis
 - NLP
 > 1.  Jieba + TFIDF
-> 2.  LDA 
--  Time series Forecast & seasonality & business trend 
+> 2.  LDA
+-  Time series Forecast & seasonality & business trend
 > 1. ARIMA
 > 2. Prophet
 - Recommendation :
 > 1. Word2Vec
 > 2. fp growth
 > 3. Collaborative Filtering
-> 4. Association Rules	
+> 4. Association Rules
 
 ## Machine Learning for Beginners
 - What’s the difference between : Supervised Regression / Supervised Classification / Unsupervised Clustering
@@ -36,7 +36,7 @@ Here is a note for myself to record what topic I've studied in terms of python c
 
 ## Supervised Regression
 - Markov Chain
-- Linear Regression 
+- Linear Regression
 - Logistic Regression
 - XGBoost
 ## Supervised Classification
@@ -52,9 +52,9 @@ Here is a note for myself to record what topic I've studied in terms of python c
 
 ## Feature Engineering
 - Normalization / Standardization
-- Dealing with missing value / imputation 
-- Imbalanced data handling : SMOTE 
-- Dimensionality Reduction :  PCA 
+- Dealing with missing value / imputation
+- Imbalanced data handling : SMOTE
+- Dimensionality Reduction :  PCA
 - Validation : Accuracy / AUC / Recall / Precision / F1
 
 ## Advanced machine learning
@@ -62,4 +62,3 @@ Here is a note for myself to record what topic I've studied in terms of python c
 - CNN
 - RNN
 - Deep Learning
-
